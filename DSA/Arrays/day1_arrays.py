@@ -1,4 +1,4 @@
-# Day 1: Arrays (Basics)
+# Day 1: Arrays(Basics)
 
 # Creating an array (list in Python)
 arr = [1, 2, 3, 4, 5]
