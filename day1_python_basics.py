@@ -1,4 +1,4 @@
-# Day 2 - Arrays Basics (Python)
+# Day 1 - Arrays Basics (Python)
 
 arr = [10, 20, 30, 40, 50]
 
