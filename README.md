@@ -8,18 +8,13 @@ This repository documents my **AI + DSA learning journey** step by step.
 - Consistently learning & uploading progress
 
 ## 📚 Roadmap
-### Phase 1: Foundations
+# Foundations
 - Python Basics
 - Data Structures & Algorithms (DSA)
 
-### Phase 2: AI & Data Science
-- NumPy, Pandas
-- Machine Learning
-- Deep Learning (later)
+# AI & Data Science 
 
 ## 🗓 Daily Progress
-- Day 1 ✅ Python Basics
-- Day 2 ⏳ Arrays & Loops
 
 ## 🛠 Tools Used
 - Python
