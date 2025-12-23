@@ -1,0 +1,12 @@
+# Dictionary basics
+
+student = {
+    "name": "Rajnandini",
+    "age": 20,
+    "cgpa": 7.7
+}
+
+print(student["name"])
+
+student["branch"] = "AI & DS"
+print(student)
