@@ -17,6 +17,13 @@ This repository documents my **AI + DSA learning journey** step by step.
 ## 🗓 Daily Progress
 
 Day 6: Palindrome string problem, Python dictionaries and sets.
+## Marks Calculator
+A simple Python project to calculate total marks and percentage.
+
+Concepts used:
+- Loops
+- Lists
+- Input/Output
 
 ## 🛠 Tools Used
 - Python
