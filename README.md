@@ -1,34 +1,26 @@
-# AI Learning Journey 🚀
+<h1 align="center">Hi 👋, I'm Rajnandini</h1>
+<h3 align="center">AI | Data Science Learner 🚀</h3>
 
-This repository documents my **AI + DSA learning journey** step by step.
+---
 
-## 👩‍💻 About Me
-- Engineering student
-- Interested in **AI, Data Science, and Software Development**
-- Consistently learning & uploading progress
+🔥 Live GitHub Dashboard
 
-## 📚 Roadmap
-# Foundations
-- Python Basics
-- Data Structures & Algorithms (DSA)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
 
-# AI & Data Science 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+</p>
 
-## 🗓 Daily Progress
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+</p>
 
-Day 6: Palindrome string problem, Python dictionaries and sets.
-Day 7 :Day 7: Revision notes + Python marks calculator project
-## Marks Calculator
-A simple Python project to calculate total marks and percentage.
+---
 
-Concepts used:
-- Loops
-- Lists
-- Input/Output
+## 🧠 Skills & Tools
 
-## 🛠 Tools Used
-- Python
-- GitHub
-- Google Colab
-
-⭐ Stay tuned for updates!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,pandas,numpy,git,github,vscode" />
+</p_toggle
