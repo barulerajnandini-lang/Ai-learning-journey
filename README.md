@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajnandini</h1>
+<h1 align="center">Hi 👋, I'm Rajnandini Barule</h1>
 <h3 align="center">AI | Data Science Learner 🚀</h3>
 
 ---
