@@ -22,5 +22,5 @@
 ## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,pandas,numpy,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,pandas,numpy,git,github,vscode,MySQL,Kaggle,HTML," />
 </p_toggle
